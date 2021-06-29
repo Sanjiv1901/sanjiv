@@ -1,0 +1,7 @@
+import math
+
+a=float(input("enter the radius:"))
+
+b=math.pi*a*a
+
+print(b)
